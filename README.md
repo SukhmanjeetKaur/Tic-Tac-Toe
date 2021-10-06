@@ -1,4 +1,4 @@
-# Tic-Tac-Toe <img src="https://img.icons8.com/external-prettycons-lineal-prettycons/49/000000/external-tic-tac-toe-games-prettycons-lineal-prettycons.png"/>
+# Tic-Tac-Toe <img src="https://img.icons8.com/ultraviolet/40/000000/tic-tac-toe.png"/>
 
 ### Steps undertaken to accompolish the Tic-Tac-Toe Game for Android :
 Tic-Tac-Toe is a classical paper and pencil game for 2 players. You were probably used to play Tic-Tac-Toe game during your childhood. The rules are quite simple : each player sets a X or O on a 3x3 grid. The player who succeeds in placing three of their marks in a horizontal or vertical or diagonal row wins the game. Now will see the steps that are undertaken to accompolish the Tic-Tac-Toe Game for Android.
